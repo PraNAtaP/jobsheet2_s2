@@ -15,5 +15,10 @@ public class MahasiswaMain19 {
             mhs2.updateIpk(3.30);
             mhs2.tampilkanInformasi();
         }
+
+        Mahasiswa19 mhsCinta = new Mahasiswa19("Cintamy Putri Santoso", "22486954329", 3.9, "SI 2M"); {
+            mhsCinta.tampilkanInformasi();
+        }
+
     }
 }
